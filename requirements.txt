@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+face_recognition
+dlib
+streamlit
+pandas
+plotly
+numpy
