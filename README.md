@@ -72,11 +72,12 @@ Evidencia: Carpeta Evidencia_Final con capturas de cada ingreso detectado.
 📁 Estructura del Proyecto
 Plaintext
 
-├── main.py              # Código principal (Procesamiento IA)
-├── dashboard.py         # Interfaz web (Streamlit)
-├── registro_personas.db # Base de datos SQLite
-├── requirements.txt     # Dependencias del proyecto
-├── sort.py              # Algoritmo de tracking (opcional)
-└── Evidencia_Final/     # Capturas de imágenes de los conteos
+main.py              # Código principal (Procesamiento IA)
+dashboard.py         # Interfaz web (Streamlit)
+registro_personas.db # Base de datos SQLite
+requirements.txt     # Dependencias del proyecto
+sort.py              # Algoritmo de tracking (opcional)
+Evidencia_Final/     # Capturas de imágenes de los conteos
+
 ✒️ Autor
 Vanessa Restrepo Obando - Desarrollo y Experimentación - Universidad Nacional de Colombia.
