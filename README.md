@@ -33,6 +33,7 @@ Bash
 
 sudo apt update
 sudo apt install python3-venv cmake libopenblas-dev liblapack-dev libjpeg-dev build-essential
+
 2. Configuración del Entorno
 Bash
 
@@ -47,6 +48,7 @@ source venv/bin/activate
 # Instalar librerías
 pip install --upgrade pip
 pip install -r requirements.txt
+
 💻 Ejecución
 El sistema se divide en dos módulos que deben correr simultáneamente:
 
@@ -60,6 +62,7 @@ Dashboard de Visualización: Abre una nueva terminal con el entorno activado.
 Bash
 
 streamlit run dashboard.py
+
 📈 Visualización y Resultados
 El sistema genera un panel web donde se pueden analizar las métricas de movilidad:
 
@@ -68,6 +71,7 @@ KPIs: Aforo actual, entradas y salidas totales.
 Gráficas: Flujo por hora y tendencias diarias.
 
 Evidencia: Carpeta Evidencia_Final con capturas de cada ingreso detectado.
+
 
 📁 Estructura del Proyecto
 Plaintext
