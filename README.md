@@ -37,8 +37,8 @@ sudo apt install python3-venv cmake libopenblas-dev liblapack-dev libjpeg-dev bu
 Bash
 
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/vanere27/Sistema-de-movilidad.git
+cd Sistema-de-movilidad
 
 # Crear y activar entorno virtual
 python3 -m venv venv
